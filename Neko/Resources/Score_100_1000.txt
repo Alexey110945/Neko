@@ -1,0 +1,22 @@
+100_hyaku_百_хяку
+123_hyaku ni-ju: san_百二十三_хяку ни дзю: сан
+200_ni hyaku_二百_ни хяку
+274_ni hyaku nana-ju: yon_二百七十四_ни хяку нана дзю: ён
+300_sam byaku_三百_cам бяку
+321_sam byaku ni-ju: ichi_三百二十一_сам бяку ни дзю: ичи
+400_yon hyaku_四百_ён хяку
+409_yon hyaku kyu:_四百九_ён хяку кю:
+473_yon hyaku nana-ju: san_四百七十三_ён хяку нана дзю: сан
+500_go hyaku_五百_го хяку
+551_go hyaku go-ju: ichi_五百五十一_го хяку го дзю: ичи
+600_roppyaku_六百_роппяку
+607_roppyaku nana_六百七_роппяку нана
+700_nana hyaku_七百_нана хяку
+758_nana hyaku go-ju: hachi_七百五十八_нана хяку го дзю: хачи
+800_happyaku_八百_хаппяку
+843_happyaku yon-ju: san_八百四十三_хаппяку ён дзю: сан
+865_happyaku roku-ju: go_八百六十五_хаппяку року дзю: го
+900_kyu: hyaku_九百_кю: хяку
+982_kyu: hyaku hachi-ju: ni_九百八十二_кю: хяку хачи дзю: ни
+999_kyu: hyaku kyu-ju: kyu:_九百九十九_кю: хяку кю: дзю: кю:
+1000_sen_千_cэн

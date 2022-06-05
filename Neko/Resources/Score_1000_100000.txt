@@ -1,0 +1,22 @@
+1000_sen_千_cэн
+1200_sen ni hyaku_千二百_сэн ни хяку
+2000_ni sen_二千_ни сэн
+2045_ni sen yon-ju: go_二千四十五_ни сэн ён дзю:
+3000_san zen_三千_сан дзен
+3009_san zen kyu:_三千九_сан дзен кю:
+4000_yon sen_四千_ён сэн
+4444_yon sen yon hyaku yon-ju: yon_四千四百四十四_ён сэн ён хяку ён дзю:
+5000_go sen_五千_го сэн
+5308_go sen sam byaku hachi_五千三十八_го сэн сам бяку хачи
+8000_hassen_八千_хассен
+8375_hassen sam byaku nana-ju: go_八千三百七十五_хассен сам бяку нана  дзю: го
+9000_kyu: sen_九千_кю: сэн
+9933_kyu: sen kyu: hyaku san-ju: san_九千九百三十三_кю: сэн кю: хяку сан дзю: сан
+10000_ichi man_一万_ичи ман
+10024_ichi man ni-ju: yon_一万二十四_ичи ман ни дзю:
+20000_ni man_二万_ни ман
+21000_ni man sen_二万千_ни ман сэн
+30000_sam man_三千_сам ман
+40000_yom man_四千_ём ман
+40500_yom man go hyaku_四万五百_ём ман го хяку
+100000_ju: man_十万_дзю: ман
